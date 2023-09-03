@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Pharmacy Qabiliya Martil MOR </title>
+  <link>https://www.pharmacyqabiliya.github.io</link> 
+  <description>Pharmacy Qabiliya in Martil Morocco founded by Dr Yassin B.Pharm in University of Granada.</description>
+  <language>en-EN</language>
+  <item>
+    <title>How to create healthy habits</title>
+    <link>https://www.pharmacyqabiliya.github.io/5-ways-to-create-healthy-habits.html</link>
+    <description>Adopting a healthy lifestyle has so many benefits. Blog Pharmacy Qabiliya Martil MOR.</description>
+   <pubDate>Tue, 15 Aug 2023 20:45:46 +0000 </pubDate>
+  </item>
+  <item>
+    <title>13 essential vitamins your body needs </title>
+    <link>https://www.pharmacyqabiliya.github.io/13-essential-vitamins.html</link>
+    <description>Vitamins are essential nutrients that your body needs to function. Blog Pharmacy Qabiliya Martil MOR.</description>
+   <pubDate>Tue, 15 Aug 2023 20:45:46 +0000 </pubDate>
+  </item>
+  <item>
+    <title>An interview with a pharmacist </title>
+    <link>https://www.pharmacyqabiliya.github.io/an-interview-with-a-pharmacist.html</link>
+    <description>A day in the life of a pharmacist, learn more about what it's like to be a pharmacy owner. Blog Pharmacy Qabiliya Martil MOR.</description>
+   <pubDate>Tue, 15 Aug 2023 20:45:46 +0000 </pubDate>
+  </item>  
+  <item>
+    <title>PharmD App - Free eLearning app</title>
+    <link>https://www.pharmacyqabiliya.github.io/app.html</link>
+    <description>PharmD App is an android free education application in english developed by pharmacy qabiliya for everyone. Make Pharma Fun!</description>
+   <pubDate>Tue, 15 Aug 2023 20:45:46 +0000 </pubDate>
+  </item>
+</channel>
+
+</rss>

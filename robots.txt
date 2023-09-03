@@ -1,0 +1,7 @@
+User-agent: *
+
+Disallow: 
+
+
+
+Sitemap: https://pharmacyqabiliya.github.io/sitemap.xml
